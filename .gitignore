@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/uploadsdocs/*
+/uploads/*
+!/uploads/.gitkeep
+node_modules
+
